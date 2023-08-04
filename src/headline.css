@@ -1,0 +1,10 @@
+.Headdiv{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+.heading{
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
